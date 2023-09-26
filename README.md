@@ -14,3 +14,8 @@ go run .
 ``
 fyne package -os windows -icon clock.png
 ``
+
+![demo](https://github.com/nfsq246/fyne-clock/blob/main/demo.png?raw=true)
+
+## Other
+support system tray menu
